@@ -1,1 +1,2 @@
-Learning the basics of Qt Creator while applying my knowledge of C++.
+# C++ GUI
+Using Qt Creator to learn how build performant applications with C++.
